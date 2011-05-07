@@ -3,14 +3,15 @@
 }
 
 body{
-  background: #cff;
+  background: #5F5A59;
 }
 header{
   padding-top:20px;
 }
 header img{
-  padding: 1em;
-  background: #fff;
+  width: 200px;
+  padding: 0em;
+  background: #000;
 
 }
 section{
