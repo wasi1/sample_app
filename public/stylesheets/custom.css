@@ -111,10 +111,14 @@ td.sidebar {
   width: 30%;
   padding: 1em;
   vertical-align: top;
-  background: #ffc;
+  background: #57E964;
 }
 
 .profile img.gravatar {
   border: 1px solid #999;
-  margin-bottom: -15px;
+  margin-bottom: -10px;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
 }
